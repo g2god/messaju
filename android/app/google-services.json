@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "112028165555",
+    "project_id": "messaju-ae6ac",
+    "storage_bucket": "messaju-ae6ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112028165555:android:77d490dea95793685517c6",
+        "android_client_info": {
+          "package_name": "com.example.messaju"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112028165555-ieufaqarvd5hcjaalnhjo6ruqjqt2joi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messaju",
+            "certificate_hash": "6805b33c72a47774b93588c9e26e89bdb6be9654"
+          }
+        },
+        {
+          "client_id": "112028165555-illrnouap6tc4hb8vhi29bkrsgucmogr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmTSLu9fy3VQLojiQZ-ItadchT0ORv6Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112028165555-illrnouap6tc4hb8vhi29bkrsgucmogr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
